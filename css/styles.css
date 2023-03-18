@@ -11342,7 +11342,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #0d6efd;
+  outline-color: #4169E1;
 }
 
 @media (min-width: 992px) {
@@ -11355,7 +11355,7 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 17rem;
+    width: 30rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -11364,8 +11364,8 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 20rem;
-    max-height: 20rem;
+    max-width: 28rem;
+    max-height: 28rem;
     border: 0.3rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
